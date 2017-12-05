@@ -5,7 +5,7 @@ import { setTimeout } from 'core-js/library/web/timers';
 
 /**
  * 0: Dead Cell
- * 1: Live Live Cell
+ * 1: Old Live Cell
  * 2: Young Live Cell
  */
 
